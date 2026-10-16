@@ -1,0 +1,53 @@
+# ---- build output (CMake / Visual Studio / MinGW) ----
+build/
+b/
+out/
+cmake-build-*/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+CTestTestfile.cmake
+Makefile
+*.ninja
+.ninja_log
+compile_commands.json
+
+# ---- compiled binaries / debug symbols ----
+*.exe
+*.dll
+*.obj
+*.o
+*.lib
+*.exp
+*.pdb
+*.ilk
+*.map
+
+# ---- Qt ----
+*.moc
+moc_*.cpp
+qrc_*.cpp
+ui_*.h
+*_autogen/
+.qmake.stash
+
+# ---- Visual Studio ----
+.vs/
+*.vcxproj.user
+*.sln.docstates
+x64/
+x86/
+Debug/
+Release/
+
+# ---- Qt Creator ----
+*.pro.user
+*.pro.user.*
+CMakeLists.txt.user
+
+# ---- everyday OS/editor junk ----
+.DS_Store
+Thumbs.db
+*.swp
+.idea/
+.vscode/

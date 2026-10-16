@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/">
+        <file>logo.png</file>
+        <file>sites/creeper.png</file>
+        <file>sites/curseforge.png</file>
+        <file>sites/nexus.png</file>
+        <file>sites/hex.png</file>
+        <file>sites/discord.png</file>
+        <file>sites/gold.png</file>
+        <file>sites/dungeonkit.png</file>
+        <file alias="sounds/soft.wav">sounds/soft.wav</file>
+        <file alias="sounds/futuristic.wav">sounds/futuristic.wav</file>
+        <file alias="sounds/combined.wav">sounds/combined.wav</file>
+        <file alias="sounds/stone.wav">sounds/stone.wav</file>
+        <file alias="sounds/loud_click.wav">sounds/loud_click.wav</file>
+        <file alias="sounds/app_futuristic_pursuit.mp3">sounds/app_futuristic_pursuit.mp3</file>
+    </qresource>
+</RCC>
